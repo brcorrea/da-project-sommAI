@@ -10,13 +10,13 @@
  - WineFolly: https://winefolly.com/
 
 
-## Build the docker image to run the notebook
+### Build docker image to run the notebook
 
 ```
 docker build -t sommai_img .
 ```
 
-## Run notebook server in docker
+### Run notebook server in docker
 
 ```bash
 docker run -it --rm \
