@@ -1,5 +1,3 @@
-# da1-project-bcorrea-sommAI
-
 ## SommAI
 
 ### Wine recommender based on NLP
