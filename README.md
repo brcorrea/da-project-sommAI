@@ -24,6 +24,6 @@ docker run -it --rm \
     -v $(pwd)/notebooks:/home/jovyan/notebooks \
     -v $(pwd)/data:/data/ \
     -v $(pwd)/images:/images/ \
-    sommai \
+    sommai_img \
     jupyter notebook --notebook-dir /home/jovyan/notebooks
 ```
