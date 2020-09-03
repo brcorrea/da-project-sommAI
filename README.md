@@ -1,6 +1,6 @@
 ## SommAI
 
-### Wine recommender based on NLP
+### Wine recommender based on Natural Language Processing and Machine Learning
 
 ### Dataset: professional wine reviews scraped from WineEnthusiast available on Kaggle:
  - WineEnthusiast source: https://www.winemag.com/?s=&drink_type=wine
